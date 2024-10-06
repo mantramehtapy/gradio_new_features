@@ -1,0 +1,72 @@
+for temp
+
+sensors
+
+for env
+ 
+pipenv shell
+
+obs setting
+
+Resolution:
+1920x1080
+s
+output:
+/home/mantra/Videos
+
+recording quality
+
+high:
+
+rec format MP4
+
+fps:
+
+60
+
+link for uploading the game
+https://s3.console.aws.amazon.com/s3/home?region=us-east-1#
+
+link for extramarks
+
+https://www.extramarks.com/website/lpt/dashboard/34#/content/1348/1311/chapter/1331217
+
+link
+
+https://creator.voiceflow.com/project/5fdb6e95c9a9a80007c5fffa/canvas/5fdb6e96c9a9a80007c5fffb
+ 
+https://subscription.packtpub.com/video/programming/9781838985660/p2/video2_5/what-is-in-skill-purchasing
+
+https://blueprints.amazon.com/skills/amzn1.ask.skill.bcfefd3c-1bb3-4a43-b463-400309f16fde/en-US
+
+https://developer.amazon.com/en-US/alexa/alexa-skills-kit/start
+
+https://developer.amazon.com/alexa/console/ask
+
+link for clolab
+https://colab.research.google.com/drive/1HoeEFVtEt3X5Js5tJXHHpRFWULEh9QsX#scrollTo=r_WxnQDPBJZe
+
+link youtube how to lern vs code
+https://www.youtube.com/watch?v=WPqXP_kLzpo&list=PLrN89xrkSgo5FIsc4t2KY6I7nh6YuGc6u&index=2
+
+for dowloading music
+youtube-dl -x --audio-format mp3
+
+for dowloading video
+youtube-dl -f 18
+
+for construct 3 udeamy
+https://www.udemy.com/course/construct-3/learn/lecture/7183246#overview
+
+to do
+construct 3
+platfomer
+
+for shut down code
+
+sudo shutdown now
+
+link for the cv2 python3 
+https://www.linkedin.com/learning/opencv-for-python-developers/python-and-opencvw
+link 
+http://platformer-mantra.ml.s3-website-us-east-1.amazonaws.com/
